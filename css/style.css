@@ -83,7 +83,7 @@ ul > li >a.nav-link{
     position: relative;
     max-height: 300px;
     margin-top: 50px;
-    filter: grayscale(1) sepia(100%) hue-rotate(50deg) saturate(7) contrast(2);
+    filter: grayscale(1) sepia(100%) hue-rotate(50deg) saturate(7) contrast(.9);
     
 }
 .navbar.navbar-light .navbar-nav{
@@ -203,7 +203,7 @@ ul > li >a.nav-link{
 
 .stat-numbers img{
     width: 100%;
-    filter: grayscale(1) brightness(200) contrast(0) sepia(100%) hue-rotate(45deg) saturate(8);
+    filter: grayscale(1) brightness(50) contrast(0) sepia(100%) hue-rotate(45deg) saturate(8);
 }
 
 .stat-numbers .book{
